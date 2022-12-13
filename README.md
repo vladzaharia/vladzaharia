@@ -2,6 +2,6 @@
 
 👨 he/him
 
-📈 Software Engineer on [Azure Monitor](https://azure.microsoft.com/en-us/services/monitor/)
+📈 Software Engineer at [The Pokémon Company International](https://pokemon.com/)
 
 🌎 [This](https://vlad.gg) is my site.
